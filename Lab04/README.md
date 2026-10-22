@@ -43,6 +43,7 @@ At the end of the game, the summary displays the final score, PERFECT/GREAT/OK/M
 | F | Hit Lane 2 |
 | J | Hit Lane 3 |
 | K | Hit Lane 4 |
+| R | Restart    | 
 
 ---
 
