@@ -1,4 +1,4 @@
-# Lab 4 — Vibe Coding: Rhythm Tap
+# Lab 4 - Vibe Coding: Rhythm Tap
 
 ## Objective
 
